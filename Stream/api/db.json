@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Another Stream",
+      "description": "this is another stream",
+      "id": 2
+    },
+    {
+      "title": "myNewStreamAgain",
+      "description": "This is Editing Stream",
+      "id": 3
+    },
+    {
+      "title": "Another new Stream",
+      "description": "This is made by Patch request.!!",
+      "userId": "107885604616620423860",
+      "id": 4
+    },
+    {
+      "title": "I`am Streaming",
+      "description": "this is my new Stream",
+      "userId": "107885604616620423860",
+      "id": 5
+    }
+  ]
+}
